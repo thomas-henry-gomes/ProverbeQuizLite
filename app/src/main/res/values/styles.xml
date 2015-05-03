@@ -1,0 +1,30 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/material_blue_500</item>
+        <item name="colorPrimaryDark">@color/material_blue_700</item>
+        <item name="colorAccent">@color/material_blue_500</item>
+        <item name="android:textColorPrimary">@color/material_textColorPrimary</item>
+        <item name="android:textColor">@color/material_textColorPrimary</item>
+
+        <item name="android:textStyle">italic</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:windowBackground">@drawable/app_background</item>
+    </style>
+
+    <!-- Custom theme. -->
+    <style name="MyCustomTheme" parent="android:Theme.Holo.Light">
+		<item name="android:textStyle">italic</item>
+		<item name="android:typeface">sans</item>
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowBackground">@drawable/app_background</item>
+	</style>
+	<!-- Button Custom theme. -->
+    <style name="MyButtonCustomTheme" parent="android:Theme.Holo.Light">
+		<item name="android:textStyle">italic</item>
+		<item name="android:typeface">sans</item>
+		<item name="android:textColor">#FFFFFF</item>
+	</style>
+</resources>

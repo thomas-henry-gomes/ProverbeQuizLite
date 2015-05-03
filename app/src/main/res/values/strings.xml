@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proverbe quiz lite</string>
+    <string name="dummy_content"></string>
+    <string name="Niveau">NIVEAU</string>
+    <string name="Jouer">Jouer</string>
+    <string name="Options">Paramètres</string>
+    <string name="title_activity_main">Proverbe quiz lite</string>
+    <string name="title_activity_level">Niveaux</string>
+    <string name="title_activity_launch">Proverbe quiz lite</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_proverb">Proverbes</string>
+    <string name="title_activity_response">Saisie</string>
+    <string name="valid_response">Valider</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="initData">Réinitialiser les données</string>
+    <string name="title_activity_statistic">Statistiques</string>
+
+</resources>

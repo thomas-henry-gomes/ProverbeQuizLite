@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<proverbeQuiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+
+    <Niveau id ="1">
+        <proverbe id ="1">
+            <partiel>Tel père, tel [...]</partiel>
+            <complement>fils</complement>
+            <aide>Lien de parenté</aide>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>L’avenir appartient à ceux qui se [...] tôt</partiel>
+            <complement>lèvent</complement>
+            <aide>Action matinale</aide>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Qui ne risque rien n’a [...]</partiel>
+            <complement>rien</complement>
+            <aide>Répétition</aide>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>Il n’est pire aveugle que celui qui ne veut pas [...]</partiel>
+            <complement>voir</complement>
+            <aide>Action de l'un des 5 sens</aide>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>Point n’est besoin d’espérer pour entreprendre, ni de réussir pour [...]</partiel>
+            <complement>persévérer</complement>
+            <aide>Persister dans une action</aide>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>À cheval donné on ne regarde pas la denture, à cheval donné, on ne regarde pas la [...]</partiel>
+            <complement>bride</complement>
+            <aide>Equipement équin</aide>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>Tel qui rit vendredi, dimanche [...]</partiel>
+            <complement>pleurera</complement>
+            <aide>Se lamenter (au futur)</aide>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>La parole est d’argent et le [...] est d’or</partiel>
+            <complement>silence</complement>
+            <aide>Absence de bruit</aide>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>Qui a bu [...]</partiel>
+            <complement>boira</complement>
+            <aide>Avaler un liquide (au futur)</aide>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>Ne remets pas à demain ce que tu peux faire [...]</partiel>
+            <complement>aujourd’hui</complement>
+            <aide>Présent</aide>
+        </proverbe>
+    </Niveau>
+
+    <Niveau id="2">
+        <proverbe id ="1">
+            <partiel>Rien ne sert de courir ; il faut [...] à point</partiel>
+            <complement>partir</complement>
+            <aide>Voyager</aide>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>Petit à petit, l’oiseau fait son [...]</partiel>
+            <complement>nid</complement>
+            <aide>Maison</aide>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Il n’y a rien de nouveau sous le [...]</partiel>
+            <complement>soleil</complement>
+            <aide>Astre lumineux</aide>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>La caque sent toujours le [...]</partiel>
+            <complement>hareng</complement>
+            <aide>Sorte de poisson</aide>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>On ne lance pas de pierre quand on vit dans une maison de [...]</partiel>
+            <complement>verre</complement>
+            <aide>Matière transparente</aide>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>Jeu de main, jeu de [...]</partiel>
+            <complement>vilain</complement>
+            <aide>Qui n'est pas beau</aide>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>Qui donne aux pauvres prête à [...]</partiel>
+            <complement>Dieu</complement>
+            <aide>Être suprême</aide>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>La nuit, tous les [...] sont gris</partiel>
+            <complement>chats</complement>
+            <aide>Félin de petite taille</aide>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>Tout nouveau, tout [...]</partiel>
+            <complement>beau</complement>
+            <aide>Qui plaît à l'oeil</aide>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>On voit la paille dans l’œil de son voisin et non la poutre dans le [...]</partiel>
+            <complement>nôtre</complement>
+            <aide>Adjectif possessif</aide>
+        </proverbe>
+    </Niveau>
+
+    <Niveau id="3">
+        <proverbe id ="1">
+            <partiel>Œil pour œil, [...] pour dent</partiel>
+            <complement>dent</complement>
+            <aide>Répétition</aide>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>Lorsque qu’un vieux fait l’amour, la [...] court alentour</partiel>
+            <complement>mort</complement>
+            <aide>La faucheuse</aide>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Il n’y a pas de fonctionnaires travailleurs, il n’y a que des [...] insomniaques</partiel>
+            <complement>fonctionnaires</complement>
+            <aide>Répétition</aide>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>L’avare et le cochon ne sont bons qu’après leur [...]</partiel>
+            <complement>mort</complement>
+            <aide>Après la vie</aide>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>À vieille mule, frein [...]</partiel>
+            <complement>doré</complement>
+            <aide>Qui a la couleur de l'or, jaune</aide>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>Qui trop [...], mal étreint</partiel>
+            <complement>embrasse</complement>
+            <aide>Serrer dans ses bras</aide>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>La [...] donne des ailes</partiel>
+            <complement>peur</complement>
+            <aide>Crainte</aide>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>Qui va à la chasse perd sa [...]</partiel>
+            <complement>place</complement>
+            <aide>Position</aide>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>Les bons [...] font les bons valets</partiel>
+            <complement>maîtres</complement>
+            <aide>Personnes qui détiennent une autorité</aide>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>Après l’effort, le [...]</partiel>
+            <complement>réconfort</complement>
+            <aide>Soulagement</aide>
+        </proverbe>
+    </Niveau>
+
+    <Niveau id="4">
+        <proverbe id ="1">
+            <partiel>À malin, [...] et demi</partiel>
+            <complement>malin</complement>
+            <aide>Répétition</aide>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>Qui veut noyer son chien l’accuse de la [...]</partiel>
+            <complement>rage</complement>
+            <aide>Maladie de certains animaux, qui se transmet par morsure</aide>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Si Dieu n’existait pas, il faudrait l'[...]</partiel>
+            <complement>inventer</complement>
+            <aide>Imaginer</aide>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>À la guerre [...] à la guerre</partiel>
+            <complement>comme</complement>
+            <aide>De la même façon</aide>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>Le chemin de l’enfer est pavé de bonnes [...]</partiel>
+            <complement>intentions</complement>
+            <aide>Desseins</aide>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>Qui vole un œuf [...] un bœuf</partiel>
+            <complement>vole</complement>
+            <aide>Chiper</aide>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>Quand vient la [...], s’en va la mémoire</partiel>
+            <complement>gloire</complement>
+            <aide>Prestige</aide>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>Le [...] des uns fait le bonheur des autres</partiel>
+            <complement>malheur</complement>
+            <aide>Évènement fâcheux</aide>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>Qui veut la paix, prépare la [...]</partiel>
+            <complement>guerre</complement>
+            <aide>Batailles</aide>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>Les [...] ont toujours tort</partiel>
+            <complement>absents</complement>
+            <aide>Non présents</aide>
+        </proverbe>
+    </Niveau>
+
+    <Niveau id="5">
+        <proverbe id ="1">
+            <partiel>Il y a assez à faire de regarder ce qui cuit dans sa [...] sans aller regarder ce qui cuit dans celle du voisin</partiel>
+            <complement>marmite</complement>
+            <aide>Chaudron</aide>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>La [...] sourit à ceux qui ne l’attendent pas</partiel>
+            <complement>chance</complement>
+            <aide>Aubaine</aide>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Aussitôt dit, [...] fait</partiel>
+            <complement>aussitôt</complement>
+            <aide>Répétition</aide>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>Quand les cheveux commencent à [...], laisse la femme et prends le vin</partiel>
+            <complement>blanchir</complement>
+            <aide>Palir</aide>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>Un homme [...] en vaut deux</partiel>
+            <complement>averti</complement>
+            <aide>Prévenu</aide>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>Tous les [...] mènent à Rome</partiel>
+            <complement>chemins</complement>
+            <aide>Passages</aide>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>Fais ce que je [...], pas ce que je fais</partiel>
+            <complement>dis</complement>
+            <aide>Affirme</aide>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>Connais-toi toi-[...]</partiel>
+            <complement>même</complement>
+            <aide>Exprime l'insistance sur l'objet ou la personne dont on parle, placé après un nom ou un pronom</aide>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>Il n’y a que le premier [...] qui coûte</partiel>
+            <complement>pas</complement>
+            <aide>Enjambée</aide>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>Qui paye ses [...] s’enrichit</partiel>
+            <complement>dettes</complement>
+            <aide>Dû</aide>
+        </proverbe>
+    </Niveau>
+
+</proverbeQuiz>
