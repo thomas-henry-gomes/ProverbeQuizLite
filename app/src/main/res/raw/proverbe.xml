@@ -6,51 +6,121 @@
             <partiel>Tel père, tel [...]</partiel>
             <complement>fils</complement>
             <aide>Lien de parenté</aide>
+            <lien>http://fr.wiktionary.org/wiki/tel_p%C3%A8re,_tel_fils</lien>
         </proverbe>
         <proverbe id ="2">
             <partiel>L’avenir appartient à ceux qui se [...] tôt</partiel>
             <complement>lèvent</complement>
             <aide>Action matinale</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99avenir_appartient_%C3%A0_ceux_qui_se_l%C3%A8vent_t%C3%B4t</lien>
         </proverbe>
         <proverbe id ="3">
             <partiel>Qui ne risque rien n’a [...]</partiel>
             <complement>rien</complement>
             <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_ne_risque_rien_n%E2%80%99a_rien</lien>
         </proverbe>
         <proverbe id ="4">
             <partiel>Il n’est pire aveugle que celui qui ne veut pas [...]</partiel>
             <complement>voir</complement>
             <aide>Action de l'un des 5 sens</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_n%E2%80%99est_pire_aveugle_que_celui_qui_ne_veut_pas_voir</lien>
         </proverbe>
         <proverbe id ="5">
             <partiel>Point n’est besoin d’espérer pour entreprendre, ni de réussir pour [...]</partiel>
             <complement>persévérer</complement>
             <aide>Persister dans une action</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="6">
             <partiel>À cheval donné on ne regarde pas la denture, à cheval donné, on ne regarde pas la [...]</partiel>
             <complement>bride</complement>
             <aide>Equipement équin</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C3%A0_cheval_donn%C3%A9,_on_ne_regarde_pas_la_bride</lien>
         </proverbe>
         <proverbe id ="7">
             <partiel>Tel qui rit vendredi, dimanche [...]</partiel>
             <complement>pleurera</complement>
             <aide>Se lamenter (au futur)</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="8">
             <partiel>La parole est d’argent et le [...] est d’or</partiel>
             <complement>silence</complement>
             <aide>Absence de bruit</aide>
+            <lien>http://fr.wiktionary.org/wiki/la_parole_est_d%E2%80%99argent_et_le_silence_est_d%E2%80%99or</lien>
         </proverbe>
         <proverbe id ="9">
             <partiel>Qui a bu [...]</partiel>
             <complement>boira</complement>
             <aide>Avaler un liquide (au futur)</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_a_bu_boira</lien>
         </proverbe>
         <proverbe id ="10">
             <partiel>Ne remets pas à demain ce que tu peux faire [...]</partiel>
             <complement>aujourd’hui</complement>
             <aide>Présent</aide>
+            <lien>http://fr.wiktionary.org/wiki/ne_remets_pas_%C3%A0_demain_ce_que_tu_peux_faire_aujourd%E2%80%99hui</lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>Qui ne dit mot [...]</partiel>
+            <complement>consent</complement>
+            <aide>Accorde</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_ne_dit_mot_consent</lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>Qui se ressemble s'[...]</partiel>
+            <complement>assemble</complement>
+            <aide>Ne faire qu'un</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_se_ressemble_s%E2%80%99assemble</lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>Au tard venu, les [...]</partiel>
+            <complement>os</complement>
+            <aide>Composant du squelette</aide>
+            <lien>http://fr.wiktionary.org/wiki/au_tard_venu,_les_os</lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>Pour faire bon ménage, il faut que l’homme soit sourd et la femme [...]</partiel>
+            <complement>aveugle</complement>
+            <aide>Qui ne voit pas</aide>
+            <lien>http://fr.wiktionary.org/wiki/pour_faire_bon_m%C3%A9nage,_il_faut_que_l%E2%80%99homme_soit_sourd_et_la_femme_aveugle</lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>Quand le diable devint vieux, il se fit [...]</partiel>
+            <complement>ermite</complement>
+            <aide>Vivant seul et coupé du monde</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>Qui veut voyager loin ménage sa [...]</partiel>
+            <complement>monture</complement>
+            <aide>Animal sur lequel on monte</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_veut_voyager_loin_m%C3%A9nage_sa_monture</lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>Chassez le naturel, il revient au [...]</partiel>
+            <complement>galop</complement>
+            <aide>La plus rapide des allures du cheval</aide>
+            <lien>http://fr.wiktionary.org/wiki/chassez_le_naturel,_il_revient_au_galop</lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>Qui fait le malin, tombe dans le [...]</partiel>
+            <complement>ravin</complement>
+            <aide>Vallée profonde</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_fait_le_malin,_tombe_dans_le_ravin</lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>Quand le vin est tiré, il faut le [...]</partiel>
+            <complement>boire</complement>
+            <aide>Avaler un liquide</aide>
+            <lien>http://fr.wiktionary.org/wiki/quand_le_vin_est_tir%C3%A9,_il_faut_le_boire</lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>Qui sème le vent, récolte la [...]</partiel>
+            <complement>tempête</complement>
+            <aide>Violente perturbation atmosphérique</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_s%C3%A8me_le_vent,_r%C3%A9colte_la_temp%C3%AAte</lien>
         </proverbe>
     </Niveau>
 
@@ -59,51 +129,121 @@
             <partiel>Rien ne sert de courir ; il faut [...] à point</partiel>
             <complement>partir</complement>
             <aide>Voyager</aide>
+            <lien>http://fr.wiktionary.org/wiki/rien_ne_sert_de_courir_;_il_faut_partir_%C3%A0_point</lien>
         </proverbe>
         <proverbe id ="2">
             <partiel>Petit à petit, l’oiseau fait son [...]</partiel>
             <complement>nid</complement>
             <aide>Maison</aide>
+            <lien>http://fr.wiktionary.org/wiki/petit_%C3%A0_petit,_l%E2%80%99oiseau_fait_son_nid</lien>
         </proverbe>
         <proverbe id ="3">
             <partiel>Il n’y a rien de nouveau sous le [...]</partiel>
             <complement>soleil</complement>
             <aide>Astre lumineux</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_n%E2%80%99y_a_rien_de_nouveau_sous_le_soleil</lien>
         </proverbe>
         <proverbe id ="4">
             <partiel>La caque sent toujours le [...]</partiel>
             <complement>hareng</complement>
             <aide>Sorte de poisson</aide>
+            <lien>http://fr.wiktionary.org/wiki/la_caque_sent_toujours_le_hareng</lien>
         </proverbe>
         <proverbe id ="5">
             <partiel>On ne lance pas de pierre quand on vit dans une maison de [...]</partiel>
             <complement>verre</complement>
             <aide>Matière transparente</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="6">
             <partiel>Jeu de main, jeu de [...]</partiel>
             <complement>vilain</complement>
             <aide>Qui n'est pas beau</aide>
+            <lien>http://fr.wiktionary.org/wiki/jeu_de_main,_jeu_de_vilain</lien>
         </proverbe>
         <proverbe id ="7">
             <partiel>Qui donne aux pauvres prête à [...]</partiel>
             <complement>Dieu</complement>
             <aide>Être suprême</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_donne_aux_pauvres_pr%C3%AAte_%C3%A0_Dieu</lien>
         </proverbe>
         <proverbe id ="8">
             <partiel>La nuit, tous les [...] sont gris</partiel>
             <complement>chats</complement>
             <aide>Félin de petite taille</aide>
+            <lien>http://fr.wiktionary.org/wiki/la_nuit,_tous_les_chats_sont_gris</lien>
         </proverbe>
         <proverbe id ="9">
             <partiel>Tout nouveau, tout [...]</partiel>
             <complement>beau</complement>
             <aide>Qui plaît à l'oeil</aide>
+            <lien>http://fr.wiktionary.org/wiki/tout_nouveau,_tout_beau</lien>
         </proverbe>
         <proverbe id ="10">
             <partiel>On voit la paille dans l’œil de son voisin et non la poutre dans le [...]</partiel>
             <complement>nôtre</complement>
             <aide>Adjectif possessif</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>Il ne faut pas remettre au lendemain ce qu’on peut faire le [...] même</partiel>
+            <complement>jour</complement>
+            <aide>Temps qui comprend 24 heures</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_ne_faut_pas_remettre_au_lendemain_ce_qu%E2%80%99on_peut_faire_le_jour_m%C3%AAme</lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>Mieux vaut tard que [...]</partiel>
+            <complement>jamais</complement>
+            <aide>À aucun moment</aide>
+            <lien>http://fr.wiktionary.org/wiki/mieux_vaut_tard_que_jamais</lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>C’est en forgeant que l’on [...] forgeron</partiel>
+            <complement>devient</complement>
+            <aide>Passer d'une situation à une autre</aide>
+            <lien>http://fr.wiktionary.org/wiki/c%E2%80%99est_en_forgeant_que_l%E2%80%99on_devient_forgeron</lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>À bon chat, [...] rat</partiel>
+            <complement>bon</complement>
+            <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C3%A0_bon_chat,_bon_rat</lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>Seuls les imbéciles ne changent [...] d’avis</partiel>
+            <complement>jamais</complement>
+            <aide>À aucun moment</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>Bien faire, et laisser [...]</partiel>
+            <complement>dire</complement>
+            <aide>Émettre des sons</aide>
+            <lien>http://fr.wiktionary.org/wiki/bien_faire,_et_laisser_dire</lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>Un bon ouvrier n’est jamais trop chèrement [...]</partiel>
+            <complement>payé</complement>
+            <aide>Recevoir son dû</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>L’amour et la [...] sont aveugles</partiel>
+            <complement>fortune</complement>
+            <aide>Richesse</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>Le chat parti, les [...] dansent</partiel>
+            <complement>souris</complement>
+            <aide>Petits rongeurs</aide>
+            <lien>http://fr.wiktionary.org/wiki/le_chat_parti,_les_souris_dansent</lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>Qui veut tuer son chien l’accuse de la [...]</partiel>
+            <complement>rage</complement>
+            <aide>Maladie de certains animaux, qui se transmet par morsure</aide>
+            <lien></lien>
         </proverbe>
     </Niveau>
 
@@ -112,51 +252,121 @@
             <partiel>Œil pour œil, [...] pour dent</partiel>
             <complement>dent</complement>
             <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C5%93il_pour_%C5%93il,_dent_pour_dent</lien>
         </proverbe>
         <proverbe id ="2">
             <partiel>Lorsque qu’un vieux fait l’amour, la [...] court alentour</partiel>
             <complement>mort</complement>
             <aide>La faucheuse</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="3">
             <partiel>Il n’y a pas de fonctionnaires travailleurs, il n’y a que des [...] insomniaques</partiel>
             <complement>fonctionnaires</complement>
             <aide>Répétition</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="4">
             <partiel>L’avare et le cochon ne sont bons qu’après leur [...]</partiel>
             <complement>mort</complement>
             <aide>Après la vie</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="5">
             <partiel>À vieille mule, frein [...]</partiel>
             <complement>doré</complement>
             <aide>Qui a la couleur de l'or, jaune</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C3%A0_vieille_mule,_frein_dor%C3%A9</lien>
         </proverbe>
         <proverbe id ="6">
             <partiel>Qui trop [...], mal étreint</partiel>
             <complement>embrasse</complement>
             <aide>Serrer dans ses bras</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_trop_embrasse,_mal_%C3%A9treint</lien>
         </proverbe>
         <proverbe id ="7">
             <partiel>La [...] donne des ailes</partiel>
             <complement>peur</complement>
             <aide>Crainte</aide>
+            <lien>http://fr.wiktionary.org/wiki/la_peur_donne_des_ailes</lien>
         </proverbe>
         <proverbe id ="8">
             <partiel>Qui va à la chasse perd sa [...]</partiel>
             <complement>place</complement>
             <aide>Position</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_va_%C3%A0_la_chasse_perd_sa_place</lien>
         </proverbe>
         <proverbe id ="9">
             <partiel>Les bons [...] font les bons valets</partiel>
             <complement>maîtres</complement>
             <aide>Personnes qui détiennent une autorité</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_bons_ma%C3%AEtres_font_les_bons_valets</lien>
         </proverbe>
         <proverbe id ="10">
             <partiel>Après l’effort, le [...]</partiel>
             <complement>réconfort</complement>
             <aide>Soulagement</aide>
+            <lien>http://fr.wiktionary.org/wiki/apr%C3%A8s_l%E2%80%99effort,_le_r%C3%A9confort</lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>Tel qu’on fait son [...], on se couche</partiel>
+            <complement>lit</complement>
+            <aide>Dans la chambre</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>L’[...] fait vivre</partiel>
+            <complement>espoir</complement>
+            <aide>Espérance</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99espoir_fait_vivre</lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>Qui vivra [...]</partiel>
+            <complement>verra</complement>
+            <aide>Action d'un sens (au futur)</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_vivra_verra</lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>Rira bien qui [...] le dernier</partiel>
+            <complement>rira</complement>
+            <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/rira_bien_qui_rira_le_dernier</lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>Au royaume des [...], les borgnes sont rois</partiel>
+            <complement>aveugles</complement>
+            <aide>Qui ne voient pas</aide>
+            <lien>http://fr.wiktionary.org/wiki/au_royaume_des_aveugles,_les_borgnes_sont_rois</lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>Tant va la [...] à l’eau, qu’à la fin elle se casse</partiel>
+            <complement>cruche</complement>
+            <aide>Broc</aide>
+            <lien>http://fr.wiktionary.org/wiki/tant_va_la_cruche_%C3%A0_l%E2%80%99eau,_qu%E2%80%99%C3%A0_la_fin_elle_se_brise</lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>Lorsque [...] veut nous punir, Il exauce nos prières</partiel>
+            <complement>Dieu</complement>
+            <aide>Divinité</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>Après la pluie, le [...] temps</partiel>
+            <complement>beau</complement>
+            <aide>Pas moche</aide>
+            <lien>http://fr.wiktionary.org/wiki/apr%C3%A8s_la_pluie,_le_beau_temps</lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>Les cordonniers sont toujours les plus [...] chaussés</partiel>
+            <complement>mal</complement>
+            <aide>Moins bien</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_cordonniers_sont_toujours_les_plus_mal_chauss%C3%A9s</lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>Comme on fait son lit, on se [...]</partiel>
+            <complement>couche</complement>
+            <aide>S'allonge</aide>
+            <lien>http://fr.wiktionary.org/wiki/comme_on_fait_son_lit,_on_se_couche</lien>
         </proverbe>
     </Niveau>
 
@@ -165,51 +375,121 @@
             <partiel>À malin, [...] et demi</partiel>
             <complement>malin</complement>
             <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C3%A0_malin,_malin_et_demi</lien>
         </proverbe>
         <proverbe id ="2">
             <partiel>Qui veut noyer son chien l’accuse de la [...]</partiel>
             <complement>rage</complement>
             <aide>Maladie de certains animaux, qui se transmet par morsure</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_veut_noyer_son_chien_l%E2%80%99accuse_de_la_rage</lien>
         </proverbe>
         <proverbe id ="3">
             <partiel>Si Dieu n’existait pas, il faudrait l'[...]</partiel>
             <complement>inventer</complement>
             <aide>Imaginer</aide>
+            <lien>http://fr.wiktionary.org/wiki/si_Dieu_n%E2%80%99existait_pas,_il_faudrait_l%E2%80%99inventer</lien>
         </proverbe>
         <proverbe id ="4">
             <partiel>À la guerre [...] à la guerre</partiel>
             <complement>comme</complement>
             <aide>De la même façon</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C3%A0_la_guerre_comme_%C3%A0_la_guerre</lien>
         </proverbe>
         <proverbe id ="5">
             <partiel>Le chemin de l’enfer est pavé de bonnes [...]</partiel>
             <complement>intentions</complement>
             <aide>Desseins</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="6">
             <partiel>Qui vole un œuf [...] un bœuf</partiel>
             <complement>vole</complement>
             <aide>Chiper</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_vole_un_%C5%93uf_vole_un_b%C5%93uf</lien>
         </proverbe>
         <proverbe id ="7">
             <partiel>Quand vient la [...], s’en va la mémoire</partiel>
             <complement>gloire</complement>
             <aide>Prestige</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="8">
             <partiel>Le [...] des uns fait le bonheur des autres</partiel>
             <complement>malheur</complement>
             <aide>Évènement fâcheux</aide>
+            <lien>http://fr.wiktionary.org/wiki/le_malheur_des_uns_fait_le_bonheur_des_autres</lien>
         </proverbe>
         <proverbe id ="9">
             <partiel>Qui veut la paix, prépare la [...]</partiel>
             <complement>guerre</complement>
             <aide>Batailles</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_veut_la_paix,_pr%C3%A9pare_la_guerre</lien>
         </proverbe>
         <proverbe id ="10">
             <partiel>Les [...] ont toujours tort</partiel>
             <complement>absents</complement>
             <aide>Non présents</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_absents_ont_toujours_tort</lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>[...] avouée est à demi pardonnée</partiel>
+            <complement>Faute</complement>
+            <aide>Erreur</aide>
+            <lien>http://fr.wiktionary.org/wiki/faute_avou%C3%A9e_est_%C3%A0_demi_pardonn%C3%A9e</lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>À long terme nous serons tous [...]</partiel>
+            <complement>morts</complement>
+            <aide>Après la vie</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>Je ne sais qu’une chose c’est que je ne [...] rien</partiel>
+            <complement>sais</complement>
+            <aide>Répétition</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>L’[...] n’a pas d’odeur</partiel>
+            <complement>argent</complement>
+            <aide>Oseille</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99argent_n%E2%80%99a_pas_d%E2%80%99odeur</lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>Il n’est point de [...] métier</partiel>
+            <complement>sot</complement>
+            <aide>Bête</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_n%E2%80%99est_point_de_sot_m%C3%A9tier</lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>Mieux vaut [...] que guérir</partiel>
+            <complement>prévenir</complement>
+            <aide>Avertir</aide>
+            <lien>http://fr.wiktionary.org/wiki/mieux_vaut_pr%C3%A9venir_que_gu%C3%A9rir</lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>[...] ne s’est pas fait en un jour</partiel>
+            <complement>Paris</complement>
+            <aide>Capitale européenne</aide>
+            <lien>http://fr.wiktionary.org/wiki/Paris_ne_s%E2%80%99est_pas_fait_en_un_jour</lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>À cœur [...], rien d’impossible</partiel>
+            <complement>vaillant</complement>
+            <aide>Brave</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C3%A0_c%C5%93ur_vaillant,_rien_d%E2%80%99impossible</lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>Faute avouée à moitié [...]</partiel>
+            <complement>pardonnée</complement>
+            <aide>Excusée</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>Une [...] ne fait pas le printemps</partiel>
+            <complement>hirondelle</complement>
+            <aide>Petit oiseau</aide>
+            <lien>http://fr.wiktionary.org/wiki/une_hirondelle_ne_fait_pas_le_printemps</lien>
         </proverbe>
     </Niveau>
 
@@ -218,51 +498,736 @@
             <partiel>Il y a assez à faire de regarder ce qui cuit dans sa [...] sans aller regarder ce qui cuit dans celle du voisin</partiel>
             <complement>marmite</complement>
             <aide>Chaudron</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="2">
             <partiel>La [...] sourit à ceux qui ne l’attendent pas</partiel>
             <complement>chance</complement>
             <aide>Aubaine</aide>
+            <lien>http://fr.wiktionary.org/wiki/la_chance_sourit_%C3%A0_ceux_qui_ne_l%E2%80%99attendent_pas</lien>
         </proverbe>
         <proverbe id ="3">
             <partiel>Aussitôt dit, [...] fait</partiel>
             <complement>aussitôt</complement>
             <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/aussit%C3%B4t_dit,_aussit%C3%B4t_fait</lien>
         </proverbe>
         <proverbe id ="4">
             <partiel>Quand les cheveux commencent à [...], laisse la femme et prends le vin</partiel>
             <complement>blanchir</complement>
             <aide>Palir</aide>
+            <lien></lien>
         </proverbe>
         <proverbe id ="5">
             <partiel>Un homme [...] en vaut deux</partiel>
             <complement>averti</complement>
             <aide>Prévenu</aide>
+            <lien>http://fr.wiktionary.org/wiki/un_homme_averti_en_vaut_deux</lien>
         </proverbe>
         <proverbe id ="6">
             <partiel>Tous les [...] mènent à Rome</partiel>
             <complement>chemins</complement>
             <aide>Passages</aide>
+            <lien>http://fr.wiktionary.org/wiki/tous_les_chemins_m%C3%A8nent_%C3%A0_Rome</lien>
         </proverbe>
         <proverbe id ="7">
             <partiel>Fais ce que je [...], pas ce que je fais</partiel>
             <complement>dis</complement>
             <aide>Affirme</aide>
+            <lien>http://fr.wiktionary.org/wiki/fais_ce_que_je_dis,_pas_ce_que_je_fais</lien>
         </proverbe>
         <proverbe id ="8">
             <partiel>Connais-toi toi-[...]</partiel>
             <complement>même</complement>
             <aide>Exprime l'insistance sur l'objet ou la personne dont on parle, placé après un nom ou un pronom</aide>
+            <lien>http://fr.wiktionary.org/wiki/connais-toi_toi-m%C3%AAme</lien>
         </proverbe>
         <proverbe id ="9">
             <partiel>Il n’y a que le premier [...] qui coûte</partiel>
             <complement>pas</complement>
             <aide>Enjambée</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_n%E2%80%99y_a_que_le_premier_pas_qui_co%C3%BBte</lien>
         </proverbe>
         <proverbe id ="10">
             <partiel>Qui paye ses [...] s’enrichit</partiel>
             <complement>dettes</complement>
             <aide>Dû</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_paye_ses_dettes_s%E2%80%99enrichit</lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>À chaque jour suffit sa [...]</partiel>
+            <complement>peine</complement>
+            <aide>Chagrin</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C3%A0_chaque_jour_suffit_sa_peine</lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>Bien [...] acquis ne profite jamais</partiel>
+            <complement>mal</complement>
+            <aide>Pas bien</aide>
+            <lien>http://fr.wiktionary.org/wiki/bien_mal_acquis_ne_profite_jamais</lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>De l’eau sur la [...], de l’or dans le panier</partiel>
+            <complement>mariée</complement>
+            <aide>Femme en blanc</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>Cela ne sert à rien de devenir un jour l’homme le plus [...] du cimetière</partiel>
+            <complement>riche</complement>
+            <aide>Pas pauvre</aide>
+            <lien>http://fr.wiktionary.org/wiki/cela_ne_sert_%C3%A0_rien_de_devenir_un_jour_l%E2%80%99homme_le_plus_riche_du_cimeti%C3%A8re</lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>Il n’y a qu’un seul péché, c’est l’[...]</partiel>
+            <complement>ignorance</complement>
+            <aide>Ne pas savoir</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>Il n’y a que la [...] qui blesse</partiel>
+            <complement>vérité</complement>
+            <aide>Conforme à la réalité</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_n%E2%80%99y_a_que_la_v%C3%A9rit%C3%A9_qui_blesse</lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>Avec des [...] on mettrait Paris en bouteille</partiel>
+            <complement>si</complement>
+            <aide>Condition</aide>
+            <lien>http://fr.wiktionary.org/wiki/avec_des_si_on_mettrait_Paris_en_bouteille</lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>Pas de [...], bonnes nouvelles</partiel>
+            <complement>nouvelle</complement>
+            <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/pas_de_nouvelle,_bonnes_nouvelles</lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>Tant qu’il y a de la [...], il y a de l’espoir</partiel>
+            <complement>vie</complement>
+            <aide>Avant la mort</aide>
+            <lien>http://fr.wiktionary.org/wiki/tant_qu%E2%80%99il_y_a_de_la_vie,_il_y_a_de_l%E2%80%99espoir</lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>Chacun son métier, les [...] seront bien gardées</partiel>
+            <complement>vaches</complement>
+            <aide>Animaux bovins</aide>
+            <lien>http://fr.wiktionary.org/wiki/chacun_son_m%C3%A9tier,_les_vaches_seront_bien_gard%C3%A9es</lien>
+        </proverbe>
+    </Niveau>
+
+    <Niveau id="6">
+        <proverbe id ="1">
+            <partiel>Qui [...] dîne</partiel>
+            <complement>dort</complement>
+            <aide>N'est pas réveillé</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_dort_d%C3%AEne</lien>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>Les [...] quittent le navire</partiel>
+            <complement>rats</complement>
+            <aide>Petits rongeurs</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_rats_quittent_le_navire</lien>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Il faut [...] haut pour ne pas tomber trop bas</partiel>
+            <complement>viser</complement>
+            <aide>Prendre pour cible</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_faut_savoir_viser_suffisamment_haut_pour_ne_pas_tomber_trop_bas</lien>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>Les [...] ne font pas des chats</partiel>
+            <complement>chiens</complement>
+            <aide>Meilleurs amis de l'Homme</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_chiens_ne_font_pas_des_chats</lien>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>Faute de grives, on [...] des merles</partiel>
+            <complement>mange</complement>
+            <aide>Nourrir</aide>
+            <lien>http://fr.wiktionary.org/wiki/faute_de_grives,_on_mange_des_merles</lien>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>Fais du [...] à Bertrand, il te le rend en caguant</partiel>
+            <complement>bien</complement>
+            <aide>Pas du mal</aide>
+            <lien>http://fr.wiktionary.org/wiki/fais_du_bien_%C3%A0_Bertrand,_il_te_le_rend_en_caguant</lien>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>L’[...] vient en mangeant</partiel>
+            <complement>appétit</complement>
+            <aide>Sentiment de faim</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99app%C3%A9tit_vient_en_mangeant</lien>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>Mieux vaut arriver en [...] qu’en corbillard</partiel>
+            <complement>retard</complement>
+            <aide>Pas en avance</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_vaut_mieux_arriver_en_retard_qu%E2%80%99arriver_en_corbillard</lien>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>Chacun est l’artisan de sa [...]</partiel>
+            <complement>fortune</complement>
+            <aide>Richesse</aide>
+            <lien>http://fr.wiktionary.org/wiki/chacun_est_l%E2%80%99artisan_de_sa_fortune</lien>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>Qui [...] mal, aura payé deux fois</partiel>
+            <complement>paye</complement>
+            <aide>Achète</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>L’[...] ne fait pas le moine</partiel>
+            <complement>habit</complement>
+            <aide>Vêtement</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99habit_ne_fait_pas_le_moine</lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>Le [...], c’est de l’argent</partiel>
+            <complement>temps</complement>
+            <aide>Durée</aide>
+            <lien>http://fr.wiktionary.org/wiki/le_temps,_c%E2%80%99est_de_l%E2%80%99argent</lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>Qui m’[...] me suive !</partiel>
+            <complement>aime</complement>
+            <aide>Sentiment</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>Quand le [...] n’est pas là, les souris dansent</partiel>
+            <complement>chat</complement>
+            <aide>Petit animal domestique</aide>
+            <lien>http://fr.wiktionary.org/wiki/quand_le_chat_n%E2%80%99est_pas_l%C3%A0,_les_souris_dansent</lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>Il vaut mieux arriver en retard qu’arriver en [...]</partiel>
+            <complement>corbillard</complement>
+            <aide>Véhicule funeste</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_vaut_mieux_arriver_en_retard_qu%E2%80%99arriver_en_corbillard</lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>C’est l’occasion qui fait le [...]</partiel>
+            <complement>larron</complement>
+            <aide>Voleur</aide>
+            <lien>http://fr.wiktionary.org/wiki/c%E2%80%99est_l%E2%80%99occasion_qui_fait_le_larron</lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>Chose [...], chose due</partiel>
+            <complement>promise</complement>
+            <aide>Accordée</aide>
+            <lien>http://fr.wiktionary.org/wiki/chose_promise,_chose_due</lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>L’appétit vient en [...]</partiel>
+            <complement>mangeant</complement>
+            <aide>Se nourir</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99app%C3%A9tit_vient_en_mangeant</lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>Partir c’est [...] un peu</partiel>
+            <complement>mourir</complement>
+            <aide>Action de passage après la vie</aide>
+            <lien>http://fr.wiktionary.org/wiki/partir_c%E2%80%99est_mourir_un_peu</lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>À chacun son [...], les vaches seront bien gardées</partiel>
+            <complement>métier</complement>
+            <aide>Travail</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C3%A0_chacun_son_m%C3%A9tier,_les_vaches_seront_bien_gard%C3%A9es</lien>
+        </proverbe>
+    </Niveau>
+
+    <Niveau id="7">
+        <proverbe id ="1">
+            <partiel>[...] deux sans trois</partiel>
+            <complement>Jamais</complement>
+            <aide>À aucun moment</aide>
+            <lien>http://fr.wiktionary.org/wiki/jamais_deux_sans_trois</lien>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>On ne prête qu’aux [...]</partiel>
+            <complement>riches</complement>
+            <aide>Pas pauvres</aide>
+            <lien>http://fr.wiktionary.org/wiki/on_ne_pr%C3%AAte_qu%E2%80%99aux_riches</lien>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Beaucoup de [...] pour rien</partiel>
+            <complement>bruit</complement>
+            <aide>Contraire du silence</aide>
+            <lien>http://fr.wiktionary.org/wiki/beaucoup_de_bruit_pour_rien</lien>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>Vouloir, c’est [...]</partiel>
+            <complement>pouvoir</complement>
+            <aide>Possible</aide>
+            <lien>http://fr.wiktionary.org/wiki/vouloir,_c%E2%80%99est_pouvoir</lien>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>Tout est [...] qui finit bien</partiel>
+            <complement>bien</complement>
+            <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/tout_est_bien_qui_finit_bien</lien>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>Les [...] les plus courtes sont les meilleures</partiel>
+            <complement>plaisanteries</complement>
+            <aide>Blagues</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_plaisanteries_les_plus_courtes_sont_les_meilleures</lien>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>On n’attrape pas des mouches avec du [...]</partiel>
+            <complement>vinaigre</complement>
+            <aide>Assaisonnement</aide>
+            <lien>http://fr.wiktionary.org/wiki/on_n%E2%80%99attrape_pas_des_mouches_avec_du_vinaigre</lien>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>Chassez le [...] par la porte, il revient par la fenêtre</partiel>
+            <complement>naturel</complement>
+            <aide>Manière d'être</aide>
+            <lien>http://fr.wiktionary.org/wiki/chassez_le_naturel_par_la_porte,_il_revient_par_la_fen%C3%AAtre</lien>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>[...] mène à lâcheté</partiel>
+            <complement>Amitié</complement>
+            <aide>Affection réciproque</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>[...] des yeux, loin du cœur</partiel>
+            <complement>Loin</complement>
+            <aide>Pas proche</aide>
+            <lien>http://fr.wiktionary.org/wiki/loin_des_yeux,_loin_du_c%C5%93ur</lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>L’oisiveté est la [...] de tous les vices</partiel>
+            <complement>mère</complement>
+            <aide>Contraire du père</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99oisivet%C3%A9_est_la_m%C3%A8re_de_tous_les_vices</lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>Il faut [...] ou faire souffrir</partiel>
+            <complement>souffrir</complement>
+            <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_faut_souffrir_ou_faire_souffrir</lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>Il faut [...] pour vivre, et non vivre pour manger</partiel>
+            <complement>manger</complement>
+            <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_faut_manger_pour_vivre,_et_non_vivre_pour_manger</lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>Les [...] ne montent jamais jusqu’au ciel</partiel>
+            <complement>arbres</complement>
+            <aide>Composants des forêts</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>En [...], ne te découvre pas d’un fil, en mai, fais ce qu’il te plaît</partiel>
+            <complement>avril</complement>
+            <aide>Mois de l'année</aide>
+            <lien>http://fr.wiktionary.org/wiki/en_avril,_ne_te_d%C3%A9couvre_pas_d%E2%80%99un_fil,_en_mai,_fais_ce_qu%E2%80%99il_te_pla%C3%AEt</lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>A beau [...] qui vient de loin</partiel>
+            <complement>mentir</complement>
+            <aide>Tromper</aide>
+            <lien>http://fr.wiktionary.org/wiki/a_beau_mentir_qui_vient_de_loin</lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>Qui paie ses [...] s’enrichit</partiel>
+            <complement>dettes</complement>
+            <aide>Dûs financiers</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_paie_ses_dettes_s%E2%80%99enrichit</lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>[...] qui roule n’amasse pas mousse</partiel>
+            <complement>Pierre</complement>
+            <aide>Caillou</aide>
+            <lien>http://fr.wiktionary.org/wiki/pierre_qui_roule_n%E2%80%99amasse_pas_mousse</lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>Toute patience a ses [...]</partiel>
+            <complement>limites</complement>
+            <aide>Bornes</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>Nul n’est prophète en son [...]</partiel>
+            <complement>pays</complement>
+            <aide>État</aide>
+            <lien>http://fr.wiktionary.org/wiki/nul_n%E2%80%99est_proph%C3%A8te_en_son_pays</lien>
+        </proverbe>
+    </Niveau>
+
+    <Niveau id="8">
+        <proverbe id ="1">
+            <partiel>L’[...] est la politesse des rois</partiel>
+            <complement>exactitude</complement>
+            <aide>Justesse</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>Mieux vaut être [...] que mal accompagné</partiel>
+            <complement>seul</complement>
+            <aide>Sans personne</aide>
+            <lien>http://fr.wiktionary.org/wiki/mieux_vaut_%C3%AAtre_seul_que_mal_accompagn%C3%A9</lien>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Tout [...], tout neuf</partiel>
+            <complement>beau</complement>
+            <aide>Pas moche</aide>
+            <lien>http://fr.wiktionary.org/wiki/tout_beau,_tout_neuf</lien>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>Sitôt [...], sitôt fait</partiel>
+            <complement>dit</complement>
+            <aide>affirmé</aide>
+            <lien>http://fr.wiktionary.org/wiki/sit%C3%B4t_dit,_sit%C3%B4t_fait</lien>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>L’[...] est aveugle</partiel>
+            <complement>amour</complement>
+            <aide>Sentiment fort</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99amour_est_aveugle</lien>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>La [...] sourit aux audacieux</partiel>
+            <complement>fortune</complement>
+            <aide>Richesse</aide>
+            <lien>http://fr.wiktionary.org/wiki/la_fortune_sourit_aux_audacieux</lien>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>[...] fait loi</partiel>
+            <complement>Nécessité</complement>
+            <aide>Caractère nécessaire</aide>
+            <lien>http://fr.wiktionary.org/wiki/n%C3%A9cessit%C3%A9_fait_loi</lien>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>On ne [...] pas un œuf</partiel>
+            <complement>tond</complement>
+            <aide>Couper à ras</aide>
+            <lien>http://fr.wiktionary.org/wiki/on_ne_tond_pas_un_%C5%93uf</lien>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>La véritable amitié se voit dans le [...]</partiel>
+            <complement>malheur</complement>
+            <aide>Contraire de bonheur</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>C’est au pied du [...] qu’on voit le maçon</partiel>
+            <complement>mur</complement>
+            <aide>On ne peut le traverser</aide>
+            <lien>http://fr.wiktionary.org/wiki/c%E2%80%99est_au_pied_du_mur_qu%E2%80%99on_voit_le_ma%C3%A7on</lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>Qui s’y [...] s’y pique</partiel>
+            <complement>frotte</complement>
+            <aide>S'y rapproche</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_s%E2%80%99y_frotte_s%E2%80%99y_pique</lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>Il faut [...] le fer quand il est chaud</partiel>
+            <complement>battre</complement>
+            <aide>Donner des coups</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_faut_battre_le_fer_quand_il_est_chaud</lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>Mieux vaut tondre l’agneau que le [...]</partiel>
+            <complement>pourceau</complement>
+            <aide>Cochon</aide>
+            <lien>http://fr.wiktionary.org/wiki/mieux_vaut_tondre_l%E2%80%99agneau_que_le_pourceau</lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>C’est en [...] qu’on devient forgeron</partiel>
+            <complement>forgeant</complement>
+            <aide>Façonnant</aide>
+            <lien>http://fr.wiktionary.org/wiki/c%E2%80%99est_en_forgeant_qu%E2%80%99on_devient_forgeron</lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>Tel est pris qui [...] prendre</partiel>
+            <complement>croyait</complement>
+            <aide>Pensait</aide>
+            <lien>http://fr.wiktionary.org/wiki/tel_est_pris_qui_croyait_prendre</lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>Tant va la cruche à l’eau, qu’à la fin elle se [...]</partiel>
+            <complement>brise</complement>
+            <aide>Casse</aide>
+            <lien>http://fr.wiktionary.org/wiki/tant_va_la_cruche_%C3%A0_l%E2%80%99eau,_qu%E2%80%99%C3%A0_la_fin_elle_se_brise</lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>Mieux vaut faire [...] que pitié</partiel>
+            <complement>envie</complement>
+            <aide>Son contraire</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>Chacun voit [...] à sa porte</partiel>
+            <complement>midi</complement>
+            <aide>Milieu de journée</aide>
+            <lien>http://fr.wiktionary.org/wiki/chacun_voit_midi_%C3%A0_sa_porte</lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>Il n’y a pas de [...] sans feu</partiel>
+            <complement>fumée</complement>
+            <aide>Mélange de gaz, de particules et de vapeur se dégageant de corps en combustion</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_n%E2%80%99y_a_pas_de_fum%C3%A9e_sans_feu</lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>Les affaires sont les [...]</partiel>
+            <complement>affaires</complement>
+            <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_affaires_sont_les_affaires</lien>
+        </proverbe>
+    </Niveau>
+
+    <Niveau id="9">
+        <proverbe id ="1">
+            <partiel>Quand le bateau coule, les [...] partent les premiers</partiel>
+            <complement>rats</complement>
+            <aide>Petits rongeurs</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>Un tiens vaut mieux que [...] tu l’auras</partiel>
+            <complement>deux</complement>
+            <aide>Chiffre</aide>
+            <lien>http://fr.wiktionary.org/wiki/un_tiens_vaut_mieux_que_deux_tu_l%E2%80%99auras</lien>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Les avares sont comme les porcs : ils ne rendent service qu’après leur [...]</partiel>
+            <complement>mort</complement>
+            <aide>Après la vie</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>Abondance de [...] ne nuit pas</partiel>
+            <complement>biens</complement>
+            <aide>Ce que l'on possède</aide>
+            <lien>http://fr.wiktionary.org/wiki/abondance_de_biens_ne_nuit_pas</lien>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>Il n’est pire sourd que celui qui ne veut pas [...]</partiel>
+            <complement>entendre</complement>
+            <aide>Action d'un sens</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_n%E2%80%99est_pire_sourd_que_celui_qui_ne_veut_pas_entendre</lien>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>Un mauvais ouvrier a toujours de [...] outils</partiel>
+            <complement>mauvais</complement>
+            <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/un_mauvais_ouvrier_a_toujours_de_mauvais_outils</lien>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>Il ne faut pas remettre à [...] ce qu’on peut faire aujourd’hui</partiel>
+            <complement>demain</complement>
+            <aide>Jour suivant le présent</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_ne_faut_pas_remettre_au_lendemain_ce_qu%E2%80%99on_peut_faire_le_jour_m%C3%AAme</lien>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>Les chiens aboient, la [...] passe</partiel>
+            <complement>caravane</complement>
+            <aide>Groupe de voyageurs</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_chiens_aboient,_la_caravane_passe</lien>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>L’occasion fait le [...]</partiel>
+            <complement>larron</complement>
+            <aide>Voleur</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99occasion_fait_le_larron</lien>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>La fourmi elle-même a sa [...]</partiel>
+            <complement>colère</complement>
+            <aide>Agressivité</aide>
+            <lien>http://fr.wiktionary.org/wiki/la_fourmi_elle-m%C3%AAme_a_sa_col%C3%A8re</lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>À maison laide [...] mort</partiel>
+            <complement>arbre</complement>
+            <aide>Composants d'une forêt</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>Il n’y a pas de mauvais [...], juste de mauvais équipements</partiel>
+            <complement>temps</complement>
+            <aide>État de l'atmosphère</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>Toute peine mérite [...]</partiel>
+            <complement>salaire</complement>
+            <aide>Dû mensuel</aide>
+            <lien>http://fr.wiktionary.org/wiki/toute_peine_m%C3%A9rite_salaire</lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>Seuls ceux qui ne font jamais rien ne se [...] jamais</partiel>
+            <complement>trompent</complement>
+            <aide>Faire erreur</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>Bon marché, c’est [...] marché</partiel>
+            <complement>mauvais</complement>
+            <aide>Contraire</aide>
+            <lien>http://fr.wiktionary.org/wiki/bon_march%C3%A9,_c%E2%80%99est_mauvais_march%C3%A9</lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>Renvoyer à l’[...]</partiel>
+            <complement>abc</complement>
+            <aide>Principe et connaissance des éléments de base dans un domaine</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>On ne peut être à la fois au [...] et au moulin</partiel>
+            <complement>four</complement>
+            <aide>Moyen de cuisson</aide>
+            <lien>http://fr.wiktionary.org/wiki/on_ne_peut_%C3%AAtre_%C3%A0_la_fois_au_four_et_au_moulin</lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>Le [...] est l’ennemi du bien</partiel>
+            <complement>mieux</complement>
+            <aide>Ce qui est préférable</aide>
+            <lien>http://fr.wiktionary.org/wiki/le_mieux_est_l%E2%80%99ennemi_du_bien</lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>[...] de chien donne des puces</partiel>
+            <complement>Caresse</complement>
+            <aide>Expression physique de tendresse</aide>
+            <lien>http://fr.wiktionary.org/wiki/caresse_de_chien_donne_des_puces</lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>Les petits ruisseaux font les grandes [...]</partiel>
+            <complement>rivières</complement>
+            <aide>Grande étendue d'eau</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_petits_ruisseaux_font_les_grandes_rivi%C3%A8res</lien>
+        </proverbe>
+    </Niveau>
+
+    <Niveau id="10">
+        <proverbe id ="1">
+            <partiel>Qui trop [...] mal étreint</partiel>
+            <complement>embrasse</complement>
+            <aide>Serre</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_trop_embrasse_mal_%C3%A9treint</lien>
+        </proverbe>
+        <proverbe id ="2">
+            <partiel>Si de beaucoup travailler on devenait riche, les ânes auraient le bât [...]</partiel>
+            <complement>doré</complement>
+            <aide>Adjectif. De couleur jaune</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="3">
+            <partiel>Ce n’est pas à un vieux [...] qu’on apprend à faire des grimaces</partiel>
+            <complement>singe</complement>
+            <aide>Primate</aide>
+            <lien>http://fr.wiktionary.org/wiki/ce_n%E2%80%99est_pas_%C3%A0_un_vieux_singe_qu%E2%80%99on_apprend_%C3%A0_faire_des_grimaces</lien>
+        </proverbe>
+        <proverbe id ="4">
+            <partiel>Les [...] ont des oreilles</partiel>
+            <complement>murs</complement>
+            <aide>On ne peut les traverser</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_murs_ont_des_oreilles</lien>
+        </proverbe>
+        <proverbe id ="5">
+            <partiel>Tout [...] mérite salaire</partiel>
+            <complement>travail</complement>
+            <aide>Tâche contre rémunération</aide>
+            <lien>http://fr.wiktionary.org/wiki/tout_travail_m%C3%A9rite_salaire</lien>
+        </proverbe>
+        <proverbe id ="6">
+            <partiel>À chaque problème, une [...]</partiel>
+            <complement>solution</complement>
+            <aide>Réponse à un problème</aide>
+            <lien>http://fr.wiktionary.org/wiki/%C3%A0_chaque_probl%C3%A8me,_une_solution</lien>
+        </proverbe>
+        <proverbe id ="7">
+            <partiel>Les bons [...] font les bons amis</partiel>
+            <complement>comptes</complement>
+            <aide>Calculs</aide>
+            <lien>http://fr.wiktionary.org/wiki/les_bons_comptes_font_les_bons_amis</lien>
+        </proverbe>
+        <proverbe id ="8">
+            <partiel>Il ne faut pas se moquer de la [...] du voisin, car la vôtre arrive le lendemain matin</partiel>
+            <complement>peine</complement>
+            <aide>Chagrin</aide>
+            <lien>http://fr.wiktionary.org/wiki/il_ne_faut_pas_se_moquer_de_la_peine_du_voisin,_car_la_v%C3%B4tre_arrive_le_lendemain_matin</lien>
+        </proverbe>
+        <proverbe id ="9">
+            <partiel>L’habit ne fait pas le [...]</partiel>
+            <complement>moine</complement>
+            <aide>Religieux reclus</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99habit_ne_fait_pas_le_moine</lien>
+        </proverbe>
+        <proverbe id ="10">
+            <partiel>Qui peut le [...], peut le moins</partiel>
+            <complement>plus</complement>
+            <aide>Son contraire</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_peut_le_plus,_peut_le_moins</lien>
+        </proverbe>
+        <proverbe id ="11">
+            <partiel>Aux [...] les mains pleines</partiel>
+            <complement>innocents</complement>
+            <aide>Non coupables</aide>
+            <lien>http://fr.wiktionary.org/wiki/aux_innocents_les_mains_pleines</lien>
+        </proverbe>
+        <proverbe id ="12">
+            <partiel>Qui [...] bien, châtie bien</partiel>
+            <complement>aime</complement>
+            <aide>Sentiment d'amour</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_aime_bien,_ch%C3%A2tie_bien</lien>
+        </proverbe>
+        <proverbe id ="13">
+            <partiel>Le chien [...], la caravane passe</partiel>
+            <complement>aboie</complement>
+            <aide>Cris des chiens</aide>
+            <lien>http://fr.wiktionary.org/wiki/le_chien_aboie,_la_caravane_passe</lien>
+        </proverbe>
+        <proverbe id ="14">
+            <partiel>Après la fête, on gratte sa [...]</partiel>
+            <complement>tête</complement>
+            <aide>Au dessus des épaules</aide>
+            <lien>http://fr.wiktionary.org/wiki/apr%C3%A8s_la_f%C3%AAte,_on_gratte_sa_t%C3%AAte</lien>
+        </proverbe>
+        <proverbe id ="15">
+            <partiel>On ne met pas la [...] avant les bœufs</partiel>
+            <complement>charrue</complement>
+            <aide>Instrument servant à labourer la terre, doté d'un soc tranchant</aide>
+            <lien></lien>
+        </proverbe>
+        <proverbe id ="16">
+            <partiel>Qui ne tente [...] n’a rien</partiel>
+            <complement>rien</complement>
+            <aide>Répétition</aide>
+            <lien>http://fr.wiktionary.org/wiki/qui_ne_tente_rien_n%E2%80%99a_rien</lien>
+        </proverbe>
+        <proverbe id ="17">
+            <partiel>L’argent est un bon [...] et un mauvais maître</partiel>
+            <complement>serviteur</complement>
+            <aide>Personne qui est au service d'une autre personne</aide>
+            <lien>http://fr.wiktionary.org/wiki/l%E2%80%99argent_est_un_bon_serviteur_et_un_mauvais_ma%C3%AEtre</lien>
+        </proverbe>
+        <proverbe id ="18">
+            <partiel>Ce qui ne [...] pas rend plus fort</partiel>
+            <complement>tue</complement>
+            <aide>Abat</aide>
+            <lien>http://fr.wiktionary.org/wiki/ce_qui_ne_tue_pas_rend_plus_fort</lien>
+        </proverbe>
+        <proverbe id ="19">
+            <partiel>On ne fait pas d’[...] sans casser des œufs</partiel>
+            <complement>omelette</complement>
+            <aide>Oeufs battus cuits à la poêle</aide>
+            <lien>http://fr.wiktionary.org/wiki/on_ne_fait_pas_d%E2%80%99omelette_sans_casser_des_%C5%93ufs</lien>
+        </proverbe>
+        <proverbe id ="20">
+            <partiel>[...] échaudé craint l’eau froide</partiel>
+            <complement>Chat</complement>
+            <aide>Petit animal domestique</aide>
+            <lien>http://fr.wiktionary.org/wiki/chat_%C3%A9chaud%C3%A9_craint_l%E2%80%99eau_froide</lien>
         </proverbe>
     </Niveau>
 

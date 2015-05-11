@@ -8,14 +8,16 @@ public class Proverb {
 	private String partiel = "";
 	private String complement = "";
 	private String aide = "";
+    private String lien = "";
 
 	// Methods
-	public Proverb(String id, String partiel, String complement, String aide) {
+	public Proverb(String id, String partiel, String complement, String aide, String lien) {
 		super();
 		this.id = id;
 		this.partiel = partiel;
 		this.complement = complement;
 		this.aide = aide;
+        this.lien = lien;
 	}
 
 	/**
@@ -78,4 +80,18 @@ public class Proverb {
 		this.aide = aide;
 	}
 
+    /**
+     * @return the lien
+     */
+    public String getLien() {
+        return lien;
+    }
+
+    /**
+     * @param lien
+     *            the lien to set
+     */
+    public void setLien(String lien) {
+        this.lien = lien;
+    }
 }

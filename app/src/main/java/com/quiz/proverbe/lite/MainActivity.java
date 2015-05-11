@@ -2,7 +2,6 @@ package com.quiz.proverbe.lite;
 
 import java.util.Calendar;
 
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -194,5 +193,4 @@ public class MainActivity extends ActionBarActivity {
 			moveTaskToBack(true);
 		}
 	}
-
 }

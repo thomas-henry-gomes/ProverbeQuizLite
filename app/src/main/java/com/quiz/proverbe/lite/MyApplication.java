@@ -59,6 +59,7 @@ public class MyApplication extends Application {
 		String partiel = "";
 		String complement = "";
 		String aide = "";
+        String lien = "";
 
 		InputStream is = getResources().openRawResource(R.raw.proverbe);
 
@@ -89,6 +90,7 @@ public class MyApplication extends Application {
 						partiel = "";
 						complement = "";
 						aide = "";
+                        lien = "";
 						for (int k = 0; k < xmlProverbInfos.getLength(); k++) {
 
 							// Process only proverbInfos (not the text in)
@@ -102,11 +104,14 @@ public class MyApplication extends Application {
 								else if ("aide".equals(xmlProverbInfos.item(k).getNodeName())) {
 									aide = xmlProverbInfos.item(k).getTextContent();
 								}
+                                else if ("lien".equals(xmlProverbInfos.item(k).getNodeName())) {
+                                    lien = xmlProverbInfos.item(k).getTextContent();
+                                }
 							}
 
 						}
 
-						proverb = new Proverb(xmlProverbs.item(j).getAttributes().getNamedItem("id").getNodeValue(), partiel, complement, aide);
+						proverb = new Proverb(xmlProverbs.item(j).getAttributes().getNamedItem("id").getNodeValue(), partiel, complement, aide, lien);
 						level.addProverb(proverb);
 					}
 				}

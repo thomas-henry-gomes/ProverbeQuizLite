@@ -12,6 +12,7 @@
 										<xs:element type="xs:string" name="partiel" minOccurs="1" maxOccurs="1" />
 										<xs:element type="xs:string" name="complement" minOccurs="1" maxOccurs="1" />
 										<xs:element type="xs:string" name="aide" minOccurs="1" maxOccurs="1" />
+                                        <xs:element type="xs:string" name="lien" minOccurs="1" maxOccurs="1" />
 									</xs:sequence>
 									<xs:attribute type="xs:string" name="id" use="required" />
 								</xs:complexType>

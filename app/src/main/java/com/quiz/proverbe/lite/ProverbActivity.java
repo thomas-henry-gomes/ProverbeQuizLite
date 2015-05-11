@@ -1,6 +1,10 @@
 package com.quiz.proverbe.lite;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
+import java.util.Locale;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -90,44 +94,71 @@ public class ProverbActivity extends ActionBarActivity {
 
 						// Si proberbe trouvé
 						if (myApp.getUserData().containsKey(key)) {
-							bt.setText(proverb.getPartiel().replace("[...]", proverb.getComplement()));
-							bt.setId(Integer.parseInt(proverb.getId()));
-							bt.setTag(key);
-							bt.setOnClickListener(new View.OnClickListener() {
-								@Override
-								public void onClick(View v) {
-									// Message de fonctionnalité non présente dans cette version
-									AlertDialog.Builder adb = new AlertDialog.Builder(v.getContext());
+                            bt.setText(proverb.getPartiel().replace("[...]", proverb.getComplement()));
+                            bt.setId(Integer.parseInt(proverb.getId()));
+                            String[] tag = new String[2];
+                            tag[0] = key;
+                            tag[1] = proverb.getLien();
+                            bt.setTag(tag);
+                            bt.setOnClickListener(new View.OnClickListener() {
+                                @Override
+                                public void onClick(View v) {
+                                    MyApplication myApp = (MyApplication) getApplicationContext();
+                                    String key = ((String[]) v.getTag())[0];
+                                    final String lien = ((String[]) v.getTag())[1];
+                                    Date date = new Date(myApp.getUserData().get(key));
+                                    DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyy à  HH:mm:ss", Locale.FRENCH);
 
-									String message = "Vous ne pouvez pas obtenir d'informations sur ce proverbe.\n";
-									message += "Cette fonctionnalité n'est pas disponible dans cette version.\n\n";
-									message += "Voulez vous télécharger la version complète ?";
-									adb.setMessage(message);
+                                    // Message d'affichage d'informations
+                                    AlertDialog.Builder adb = new AlertDialog.Builder(v.getContext());
 
-									adb.setPositiveButton("Oui", new DialogInterface.OnClickListener() {
-										public void onClick(DialogInterface dialog, int which) {
-											String url = "https://play.google.com/store/apps/details?id=com.quiz.proverbe";
-											Intent intent = new Intent(Intent.ACTION_VIEW);
-											intent.setData(Uri.parse(url));
-											startActivity(intent);
-											overridePendingTransition(R.anim.fadeout, R.anim.fadein);
-										}
-									});
-									adb.setNegativeButton("Non", new DialogInterface.OnClickListener() {
-										public void onClick(DialogInterface dialog, int which) {
+                                    if (!"".equals(lien)) {
+                                        String message = "Proverbe trouvé le\n" + dateFormat.format(date) + "\n\n";
+                                        message += "Voulez vous afficher plus d'informations sur ce proverbe ?";
+                                        adb.setMessage(message);
+                                    }
+                                    else {
+                                        String message = "Proverbe trouvé le\n" + dateFormat.format(date) + "\n\n";
+                                        message += "Aucune information supplémentaire pour le moment.";
+                                        adb.setMessage(message);
+                                    }
 
-										}
-									});
-									AlertDialog ad = adb.show();
-									TextView messageText = (TextView) ad.findViewById(android.R.id.message);
-									messageText.setPadding(15, 15, 15, 15);
-									messageText.setGravity(Gravity.CENTER);
-									messageText.setTextColor(Color.BLACK);
-									messageText.setTextSize(18);
-									ad.show();
-								}
-							});
-							bt.setBackgroundResource(R.drawable.green_shape);
+                                    if (!"".equals(lien)) {
+                                        adb.setPositiveButton("Oui", new DialogInterface.OnClickListener() {
+                                            public void onClick(DialogInterface dialog, int which) {
+                                                Intent intent = new Intent(Intent.ACTION_VIEW);
+                                                intent.setData(Uri.parse(lien));
+                                                startActivity(intent);
+                                                overridePendingTransition(R.anim.fadeout, R.anim.fadein);
+                                            }
+                                        });
+
+                                        adb.setNegativeButton("Non", new DialogInterface.OnClickListener() {
+                                            public void onClick(DialogInterface dialog, int which) {
+
+                                            }
+                                        });
+                                    }
+                                    else {
+                                        adb.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                                            public void onClick(DialogInterface dialog, int which) {
+
+                                            }
+                                        });
+
+                                        adb.setCancelable(false);
+                                    }
+
+                                    AlertDialog ad = adb.show();
+                                    TextView messageText = (TextView) ad.findViewById(android.R.id.message);
+                                    messageText.setPadding(15, 15, 15, 15);
+                                    messageText.setGravity(Gravity.CENTER);
+                                    messageText.setTextColor(Color.BLACK);
+                                    messageText.setTextSize(18);
+                                    ad.show();
+                                }
+                            });
+                            bt.setBackgroundResource(R.drawable.green_shape);
 						}
 						// Sinon
 						else {

@@ -2,16 +2,16 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/material_blue_500</item>
-        <item name="colorPrimaryDark">@color/material_blue_700</item>
-        <item name="colorAccent">@color/material_blue_500</item>
+        <!-- Status Bar Color -->
+        <item name="colorPrimaryDark">@color/material_cyan_700</item>
+        <!-- App Bar Color -->
+        <item name="colorPrimary">@color/material_cyan_600</item>
         <item name="android:textColorPrimary">@color/material_textColorPrimary</item>
+        <!-- Window Background Color -->
+        <item name="android:windowBackground">@color/windowBackground</item>
+        
+        <item name="colorAccent">@color/material_blue_500</item>
         <item name="android:textColor">@color/material_textColorPrimary</item>
-
-        <item name="android:textStyle">italic</item>
-        <item name="android:typeface">sans</item>
-        <item name="android:windowBackground">@drawable/app_background</item>
     </style>
 
     <!-- Custom theme. -->
@@ -22,9 +22,7 @@
 		<item name="android:windowBackground">@drawable/app_background</item>
 	</style>
 	<!-- Button Custom theme. -->
-    <style name="MyButtonCustomTheme" parent="android:Theme.Holo.Light">
-		<item name="android:textStyle">italic</item>
-		<item name="android:typeface">sans</item>
+    <style name="MyButtonCustomTheme" parent="Theme.AppCompat">
 		<item name="android:textColor">#FFFFFF</item>
 	</style>
 </resources>

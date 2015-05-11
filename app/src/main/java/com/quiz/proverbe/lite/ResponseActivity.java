@@ -58,14 +58,15 @@ public class ResponseActivity extends ActionBarActivity {
 		// Mise en place de l'aide
 		String aide = myApp.getDictionary().getLevel(levelId).getProverb(proverbId).getAide();
 
+        // Aide #1
 		if ("".equals(aide)) {
-			TextView tva = (TextView) findViewById(R.id.textViewAide);
+			TextView tva = (TextView) findViewById(R.id.textViewAide1);
 			tva.setTextSize(1, 12);
 			tva.setGravity(Gravity.CENTER);
 			tva.setText("");
 		}
 		else {
-			TextView tva = (TextView) findViewById(R.id.textViewAide);
+			TextView tva = (TextView) findViewById(R.id.textViewAide1);
 			tva.setTextSize(1, 12);
 			tva.setGravity(Gravity.CENTER);
 			tva.setText("Besoin d'aide ? Cliquer ici pour obtenir un indice.");
@@ -94,6 +95,66 @@ public class ResponseActivity extends ActionBarActivity {
 				}
 			});
 		}
+
+        // Aide #2
+        TextView tva2 = (TextView) findViewById(R.id.textViewAide2);
+        tva2.setTextSize(1, 12);
+        tva2.setGravity(Gravity.CENTER);
+        tva2.setText("Besoin d'aide ? Cliquer ici pour obtenir la première lettre.");
+        tva2.setTag(myApp.getDictionary().getLevel(levelId).getProverb(proverbId).getComplement().substring(0, 1));
+        tva2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // Message d'aide
+                AlertDialog.Builder adb = new AlertDialog.Builder(v.getContext());
+
+                adb.setMessage("La première lettre du mot est : \"" + ((String) v.getTag()).toUpperCase(Locale.FRENCH) + "\".");
+
+                adb.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+
+                    }
+                });
+                adb.setCancelable(false);
+                AlertDialog ad = adb.show();
+                TextView messageText = (TextView) ad.findViewById(android.R.id.message);
+                messageText.setPadding(15, 15, 15, 15);
+                messageText.setGravity(Gravity.CENTER);
+                messageText.setTextColor(Color.BLACK);
+                messageText.setTextSize(18);
+                ad.show();
+            }
+        });
+
+        // Aide #3
+        TextView tva3 = (TextView) findViewById(R.id.textViewAide3);
+        tva3.setTextSize(1, 12);
+        tva3.setGravity(Gravity.CENTER);
+        tva3.setText("Besoin d'aide ? Cliquer ici pour obtenir le nombre de lettres.");
+        tva3.setTag("" + myApp.getDictionary().getLevel(levelId).getProverb(proverbId).getComplement().length());
+        tva3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // Message d'aide
+                AlertDialog.Builder adb = new AlertDialog.Builder(v.getContext());
+
+                adb.setMessage("Le mot possède " + (String) v.getTag() + " lettres.");
+
+                adb.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+
+                    }
+                });
+                adb.setCancelable(false);
+                AlertDialog ad = adb.show();
+                TextView messageText = (TextView) ad.findViewById(android.R.id.message);
+                messageText.setPadding(15, 15, 15, 15);
+                messageText.setGravity(Gravity.CENTER);
+                messageText.setTextColor(Color.BLACK);
+                messageText.setTextSize(18);
+                ad.show();
+            }
+        });
 	}
 
 	@Override
